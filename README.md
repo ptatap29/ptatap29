@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @ptatap29
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Node.JS 
+- 🌱 I’m currently learning Node JS, React, Mongo DB
+- 📫 You can reach me @ anurag.aaray29@gmail.com
 
-<!---
-ptatap29/ptatap29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
